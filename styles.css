@@ -1,0 +1,68 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    color: white;
+}
+image{
+    /* clip-path: circle(50% at 50% 50%);*/
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+}
+
+#portfolio{
+    height: 75px;
+    color: rgb(118, 171, 174);
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: larger;
+    padding: 20px;
+}
+
+.button{
+    background-color: rgb(49, 54, 63);
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+#divone{
+    background-color: rgb(46, 240, 159);
+    color: rgb(49, 54, 63);
+    width: 50%;
+    border-radius: 15px;
+}
+
+#learnmore{
+    background-color: rgb(34, 40, 49);
+    border-radius: 15px;
+    color: white;
+    
+}
+
+#divtwo{
+    background-color: rgb(46, 240, 159);
+    color: rgb(49, 54, 63);
+    width: 50%;
+    border-radius: 15px;
+}
+
+
+#divthree{
+    background-color: rgb(46, 240, 159);
+    color: rgb(49, 54, 63);
+    width: 50%;
+    border-radius: 15px;
+}
+
+#footer{
+    background-color: rgb(46, 240, 159);
+    color: rgb(255, 0, 0); 
+    text-align: center;
+    font-weight: bolder;
+}
